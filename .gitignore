@@ -1,0 +1,14 @@
+# Arquivos internos do ambiente Manus
+.manus/
+manus-webdev.json
+
+# Arquivos temporários e de sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# Dependências e builds locais
+node_modules/
+dist/
+build/
+.vercel/
